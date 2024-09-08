@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : DB2
- Source Server Type    : PostgreSQL
- Source Server Version : 120017 (120017)
- Source Host           : localhost:5432
- Source Catalog        : FestFinder
- Source Schema         : public
-
- Target Server Type    : PostgreSQL
- Target Server Version : 120017 (120017)
- File Encoding         : 65001
-
- Date: 08/09/2024 19:01:38
-*/
 
 
 -- ----------------------------
